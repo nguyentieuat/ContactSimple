@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactSimple</string>
+    <string name="phone">SDT: </string>
+    <string name="mess">Noi dung: </string>
+    <string name="dial">Quay so </string>
+    <string name="callnow">Goi ngay </string>
+    <string name="message">Gui tin nhan </string>
+</resources>

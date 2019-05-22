@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactSimple</string>
+    <string name="phone">Phone: </string>
+    <string name="mess">Message: </string>
+    <string name="dial">Dial</string>
+    <string name="callnow">Call Now</string>
+    <string name="message">Message</string>
+</resources>
